@@ -15,13 +15,13 @@ This project is a solution to the [Frontend Mentor challenge](https://www.fronte
 ### Overview
 ![Calculator-Website Overview](https://github.com/MMansy19/Calculator-Website/blob/main/assets/images/9176032_6573.jpg)
 ### Planning
-![Planning](assets/images/Planning.jpg)
+![Planning](Planning.jpg)
 
 ### light Mode 
-![light Mode](assets/images/1.png)
+![light Mode](1.png)
 
 ### Dark Mode 
-![Dark Mode ](assets/images/2.png)
+![Dark Mode ](2.png)
 
 
 ## Key Features
