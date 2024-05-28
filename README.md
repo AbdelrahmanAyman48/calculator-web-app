@@ -13,7 +13,7 @@ This project is a solution to the [Frontend Mentor challenge](https://www.fronte
 ## Screanshots
 
 ### Overview
-![Calculator-Website Overview](https://github.com/MMansy19/Calculator-Website/blob/main/assets/images/9176032_6573.jpg)
+
 ### Planning
 ![Planning](Planning.jpg)
 
